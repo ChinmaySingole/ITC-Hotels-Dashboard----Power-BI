@@ -27,8 +27,9 @@ To build an insightful, user-friendly Power BI dashboard that provides comprehen
 The final output supports ITC Hotels in making data-backed decisions for enhancing performance and customer satisfaction.
 
 ## Dashboard Overview
- **Page 1**: Financial Overview & Revenue Performance
-KPIs: Total Revenue, ADR, RevPAR, MoM & WoW Growth, Moving Average
+ **Page 1:** Financial Overview & Revenue Performance
+
+**KPIs:** Total Revenue, ADR, RevPAR, MoM & WoW Growth, Moving Average
 
 **Key Insights:**
 
@@ -49,7 +50,7 @@ KPIs: Total Revenue, ADR, RevPAR, MoM & WoW Growth, Moving Average
 
 **Page 3:** Room Category Performance & Booking Insights
 
-**KPIs:**ALOS (Average Length of Stay), Booking Lead Time
+**KPIs:** ALOS (Average Length of Stay), Booking Lead Time
 
 **Key Insights:**
 
